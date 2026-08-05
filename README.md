@@ -24,7 +24,7 @@ smooth animations and great user experiences.
 
 ## 🚀 About Me
 
-```javascript
+
 const ali = {
     role: "Frontend Developer",
     education: "Computer Science Student",
@@ -84,4 +84,4 @@ HTML • CSS • JavaScript • GSAP • Lenis
 <div align="center"> <a href="YOUR_LINKEDIN_LINK"> <img src="https://img.shields.io/badge/LinkedIn-07101f?style=for-the-badge&logo=linkedin&logoColor=ffcc00"/> </a> <a href="YOUR_PORTFOLIO_LINK"> <img src="https://img.shields.io/badge/Portfolio-07101f?style=for-the-badge&logo=vercel&logoColor=ffcc00"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-07101f?style=for-the-badge&logo=gmail&logoColor=ffcc00"/> </a> </div>
 <div align="center">
 ⭐ Thanks for visiting my profile!
-<img src="https://komarev.com/ghpvc/?username=aliusman-lab&color=ffcc00&style=flat-square" /> </div> ```
+<img src="https://komarev.com/ghpvc/?username=aliusman-lab&color=ffcc00&style=flat-square" /> </div> 
