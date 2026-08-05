@@ -39,7 +39,7 @@ const ali = {
         "Git",
         "GitHub",
         "VS Code",
-        "Vite"
+         "Vite"
     ],
     currentlyLearning: "Advanced React & Modern Web Development"
 };
